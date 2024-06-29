@@ -1,0 +1,13 @@
+.input {
+  width: 500px;
+  margin-bottom: 50px;
+  height: 40px;
+  font-size: 22px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.text {
+  margin-top: 20px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
